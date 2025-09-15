@@ -1,0 +1,7 @@
+/uploaded_pdfs
+/chroma_store
+/pycache
+.env
+.venv/
+__pycache__/
+*.pyc

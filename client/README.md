@@ -1,0 +1,3 @@
+- Create Virtual Environment: python -m venv .venv
+- Activate myenv : .venv/bin/activate
+- pip install -r requirements.txt
