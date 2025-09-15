@@ -27,5 +27,3 @@ streamlit run app.py
 
 - `POST /upload_pdfs/` — Upload PDFs and build vectorstore
 - `POST /ask/` — Send a query and receive answers
-
-Testable via Postman or directly from the Streamlit frontend.
